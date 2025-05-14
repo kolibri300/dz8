@@ -15,3 +15,11 @@ div.text-box>h3:first-child
 .text-box>p:nth-child(7){
     color: green;
 }
+table
+{
+    border-collapse: collapse;
+}
+th,td
+{
+    border: 1px solid black;
+}
